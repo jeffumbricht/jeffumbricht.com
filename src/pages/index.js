@@ -1,13 +1,13 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
-
 import Scroll from '../components/Scroll';
 
 import pic1 from '../assets/images/pic01.jpg';
 import pic2 from '../assets/images/pic02.jpg';
 import pic3 from '../assets/images/pic03.jpg';
 import config from '../../config';
+
 const IndexPage = () => (
   <Layout>
     <section id="banner">
@@ -35,32 +35,31 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Arcu aliquet vel lobortis ata nisl
+            well-rounded,&nbsp;
             <br />
-            eget augue amet aliquet nisl cep donec
+            refined front end development
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
+            Over 10 years industry experience in a collaborative
+            environment&nbsp;
             <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
+            with a focus on front end, Drupal, and mentorship.
           </p>
         </header>
         <ul className="icons major">
           <li>
-            <span className="icon fa-gem major style1">
-              <span className="label">Lorem</span>
+            <span className="icon solid fa-terminal major style1">
+              <span className="label">DevOps</span>
             </span>
           </li>
           <li>
-            <span className="icon fa-heart major style2">
-              <span className="label">Ipsum</span>
+            <span className="icon solid fa-database major style2">
+              <span className="label">Back end development</span>
             </span>
           </li>
           <li>
             <span className="icon solid fa-code major style3">
-              <span className="label">Dolor</span>
+              <span className="label">Front end development</span>
             </span>
           </li>
         </ul>
@@ -74,13 +73,13 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Magna primis lobortis
+            Multidisciplinary&nbsp;
             <br />
-            sed ullamcorper
+            perspective
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            Being a full stack developer means approaching a feature with an
+            understanding of the entire system.
           </p>
         </div>
       </section>
@@ -90,13 +89,13 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Tortor dolore feugiat
+            Collaboration&nbsp;
             <br />
-            elementum magna
+            and teamwork
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            Agency life has given me experience in cross-functional teams with
+            multiple developers, UX architects, UI designers, and stakeholders.
           </p>
         </div>
       </section>
@@ -106,13 +105,13 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Augue eleifend aliquet
+            Mentorship&nbsp;
             <br />
-            sed condimentum
+            and Leadership
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-            imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+            Fostering individual and team growth through pull requests, code
+            reviews, pair programming, and presentations.
           </p>
         </div>
       </section>
@@ -121,56 +120,61 @@ const IndexPage = () => (
     <section id="three" className="wrapper style3 special">
       <div className="inner">
         <header className="major">
-          <h2>Accumsan mus tortor nunc aliquet</h2>
+          <h2>Development skills</h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
+            Front end with <b>HTML</b>, <b>Sass</b>, and <b>JavaScript</b> is my
+            bread and butter.&nbsp;
             <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
+            I've also got knowledge of various PHP solutions, JS frameworks, and
+            more.
           </p>
         </header>
         <ul className="features">
-          <li className="icon fa-paper-plane">
-            <h3>Arcu accumsan</h3>
+          <li className="icon brands fa-html5">
+            <h3>Front end</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              Cross browser expertise with a <b>mobile first</b> approach and
+              utilizing <b>HTML</b>, <b>Sass</b>, <b>jQuery</b>, and vanilla{' '}
+              <b>JavaScript</b>.
             </p>
           </li>
-          <li className="icon solid fa-laptop">
-            <h3>Ac Augue Eget</h3>
+          <li className="icon brands fa-bootstrap">
+            <h3>CSS Frameworks</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              Extensive experience with <b>Bootstrap 3 and 4</b>, including
+              customizing from the Sass source, as well as{' '}
+              <b>custom implementations</b>.
             </p>
           </li>
-          <li className="icon solid fa-code">
-            <h3>Mus Scelerisque</h3>
+          <li className="icon brands fa-drupal">
+            <h3>Back end</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              Concentrating on <b>Drupal 8/9</b> with working knowledge of{' '}
+              <b>Drupal 7</b>, <b>Wordpress</b>, and <b>Laravel</b>.
             </p>
           </li>
-          <li className="icon solid fa-headphones-alt">
-            <h3>Mauris Imperdiet</h3>
+          <li className="icon solid fa-universal-access">
+            <h3>a11y</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              Well-versed in <b>accessibility audits</b>, best practices,{' '}
+              <b>automated and manual testing</b>, content editor training, and
+              team education.
             </p>
           </li>
-          <li className="icon fa-heart">
-            <h3>Aenean Primis</h3>
+          <li className="icon brands fa-git-alt">
+            <h3>git</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              Advocate for structure through <b>feature branches</b>, meaningful
+              commit messages, <b>pull requests</b> and code reviews, and{' '}
+              <b>rebasing</b>.
             </p>
           </li>
-          <li className="icon fa-flag">
-            <h3>Tortor Ut</h3>
+          <li className="icon brands fa-jira">
+            <h3>Project Management Software</h3>
             <p>
-              Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-              tincidunt nullam amet leo Aenean ligula consequat consequat.
+              Process know&ndash;how with <b>Jira</b> workflows in an{' '}
+              <b>agile</b> environment and knowledge of <b>basecamp</b> for
+              collaboration.
             </p>
           </li>
         </ul>
@@ -180,21 +184,12 @@ const IndexPage = () => (
     <section id="cta" className="wrapper style4">
       <div className="inner">
         <header>
-          <h2>Arcue ut vel commodo</h2>
-          <p>
-            Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-            eleifend fringilla.
-          </p>
+          <h2>Let's get in touch</h2>
         </header>
         <ul className="actions stacked">
           <li>
             <a href="/#" className="button fit primary">
-              Activate
-            </a>
-          </li>
-          <li>
-            <a href="/#" className="button fit">
-              Learn More
+              Email me
             </a>
           </li>
         </ul>

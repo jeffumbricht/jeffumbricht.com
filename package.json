@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-spectral",
+  "name": "jeffumbricht-website",
   "version": "0.0.1",
   "description": "Gatsby.js V2 starter template based on Spectral by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-spectral.git"
+    "url": "git+https://github.com/jeffumbricht/jeffumbricht.com.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Jeff Umbricht",
+    "email": "jeffrey.u@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -39,13 +39,11 @@
     "rimraf": "^3.0.2"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-spectral"
+    "gatsby"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-spectral/issues"
+    "url": "https://github.com/jeffumbricht/jeffumbricht.com/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-spectral#readme"
+  "homepage": "https://github.com/jeffumbricht/jeffumbricht.com#jeffumbrichtcom"
 }
