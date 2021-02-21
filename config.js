@@ -9,6 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   heading: 'Jeff Umbricht',
   subHeading: 'Full Stack Developer',
+  email: 'jeffrey.u@gmail.com',
   // social
   socialLinks: [
     {

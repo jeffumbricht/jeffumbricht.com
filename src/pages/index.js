@@ -12,15 +12,13 @@ const IndexPage = () => (
   <Layout>
     <section id="banner">
       <div className="inner">
-        <h2>{config.heading}</h2>
+        <h1>{config.heading}</h1>
         <p>{config.subHeading}</p>
         <ul className="actions special">
           <li>
-            <Scroll type="id" element="one">
-              <a href="/#" className="button primary">
-                Explore
-              </a>
-            </Scroll>
+            <a href={`mailto:${config.email}`} className="button primary">
+              Get in Touch
+            </a>
           </li>
         </ul>
       </div>
@@ -35,14 +33,12 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            well-rounded,&nbsp;
-            <br />
+            well-rounded, <br />
             refined front end development
           </h2>
           <p>
             Over 10 years industry experience in a collaborative
-            environment&nbsp;
-            <br />
+            environment <br />
             with a focus on front end, Drupal, and mentorship.
           </p>
         </header>
@@ -73,8 +69,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Multidisciplinary&nbsp;
-            <br />
+            Multidisciplinary <br />
             perspective
           </h2>
           <p>
@@ -89,8 +84,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Collaboration&nbsp;
-            <br />
+            Collaboration <br />
             and teamwork
           </h2>
           <p>
@@ -105,8 +99,7 @@ const IndexPage = () => (
         </div>
         <div className="content">
           <h2>
-            Mentorship&nbsp;
-            <br />
+            Mentorship <br />
             and Leadership
           </h2>
           <p>
@@ -123,8 +116,7 @@ const IndexPage = () => (
           <h2>Development skills</h2>
           <p>
             Front end with <b>HTML</b>, <b>Sass</b>, and <b>JavaScript</b> is my
-            bread and butter.&nbsp;
-            <br />
+            bread and butter. <br />
             I've also got knowledge of various PHP solutions, JS frameworks, and
             more.
           </p>
@@ -188,7 +180,7 @@ const IndexPage = () => (
         </header>
         <ul className="actions stacked">
           <li>
-            <a href="/#" className="button fit primary">
+            <a href={`mailto:${config.email}`} className="button fit primary">
               Email me
             </a>
           </li>
