@@ -49,12 +49,12 @@ const IndexPage = () => (
             </span>
           </li>
           <li>
-            <span className="icon solid fa-database major style2">
+            <span className="icon solid fa-database major style1">
               <span className="label">Back end development</span>
             </span>
           </li>
           <li>
-            <span className="icon solid fa-code major style3">
+            <span className="icon solid fa-code major style1">
               <span className="label">Front end development</span>
             </span>
           </li>
