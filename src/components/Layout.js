@@ -59,7 +59,9 @@ class Layout extends Component {
               }
             >
               <div id="page-wrapper">
-                {children}
+                <main>
+                  {children}
+                </main>
                 <Footer />
               </div>
             </div>
