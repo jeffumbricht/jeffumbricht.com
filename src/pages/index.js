@@ -33,13 +33,12 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            well-rounded, <br />
+            well&ndash;rounded, <br />
             refined front end development
           </h2>
           <p>
-            Over 10 years industry experience in a collaborative
-            environment <br />
-            with a focus on front end, Drupal, and mentorship.
+            Over ten years of industry experience in a collaborative environment  <br />
+            with a focus on the front end, Drupal, and mentorship.
           </p>
         </header>
         <ul className="icons major">
@@ -73,8 +72,7 @@ const IndexPage = () => (
             perspective
           </h2>
           <p>
-            Being a full stack developer means approaching a feature with an
-            understanding of the entire system.
+            Being a full&ndash;stack developer means approaching a feature with an understanding of the entire system.
           </p>
         </div>
       </section>
@@ -88,8 +86,7 @@ const IndexPage = () => (
             and teamwork
           </h2>
           <p>
-            Agency life has given me experience in cross-functional teams with
-            multiple developers, UX architects, UI designers, and stakeholders.
+            Agency life has given me experience in cross-functional teams with developers, UX architects, UI designers, and stakeholders.
           </p>
         </div>
       </section>
@@ -103,8 +100,7 @@ const IndexPage = () => (
             and Leadership
           </h2>
           <p>
-            Fostering individual and team growth through pull requests, code
-            reviews, pair programming, and presentations.
+          Fostering individual and team growth through pull requests, code reviews, pair programming, and presentations.
           </p>
         </div>
       </section>
@@ -115,58 +111,45 @@ const IndexPage = () => (
         <header className="major">
           <h2>Development skills</h2>
           <p>
-            Front end with <b>HTML</b>, <b>Sass</b>, and <b>JavaScript</b> is my
-            bread and butter. <br />
-            I've also got knowledge of various PHP solutions, JS frameworks, and
-            more.
+          Front end with HTML, Sass, and JavaScript is my bread and butter with knowledge of various PHP solutions, JS frameworks, and more sprinkled in.
           </p>
         </header>
         <ul className="features">
           <li className="icon brands fa-html5">
             <h3>Front end</h3>
             <p>
-              Cross browser expertise with a <b>mobile first</b> approach and
-              utilizing <b>HTML</b>, <b>Sass</b>, <b>jQuery</b>, and vanilla{' '}
-              <b>JavaScript</b>.
+            Expertise in developing cross&ndash;browser using a <b>mobile&ndash;first</b> approach and utilizing <b>HTML</b>, <b>Sass</b>, <b>jQuery</b>, and vanilla <b>JavaScript</b>.
             </p>
           </li>
           <li className="icon brands fa-bootstrap">
             <h3>CSS Frameworks</h3>
             <p>
-              Extensive experience with <b>Bootstrap 3 and 4</b>, including
-              customizing from the Sass source, as well as{' '}
-              <b>custom implementations</b>.
+            Extensive experience with <b>Bootstrap</b>, including customizing from the Sass source and <b>custom implementations</b>.
             </p>
           </li>
           <li className="icon brands fa-drupal">
             <h3>Back end</h3>
             <p>
-              Concentrating on <b>Drupal 8/9</b> with working knowledge of{' '}
-              <b>Drupal 7</b>, <b>Wordpress</b>, and <b>Laravel</b>.
+            Concentrating on <b>Drupal 8/9</b> with working knowledge of <b>Drupal 7</b>, <b>WordPress</b>, and <b>Laravel</b>.
             </p>
           </li>
           <li className="icon solid fa-universal-access">
             <h3>a11y</h3>
             <p>
-              Well-versed in <b>accessibility audits</b>, best practices,{' '}
-              <b>automated and manual testing</b>, content editor training, and
-              team education.
+            Well&ndash;versed in <b>accessibility audits</b>, best practices, <b>automated and manual testing</b>, content editor training, and team education.
+
             </p>
           </li>
           <li className="icon brands fa-git-alt">
             <h3>git</h3>
             <p>
-              Advocate for structure through <b>feature branches</b>, meaningful
-              commit messages, <b>pull requests</b> and code reviews, and{' '}
-              <b>rebasing</b>.
+            Advocate for structure through <b>feature branches</b>, meaningful commit messages, <b>pull requests</b>, code reviews, and <b>rebasing</b>.
             </p>
           </li>
           <li className="icon brands fa-jira">
             <h3>Project Management Software</h3>
             <p>
-              Process know&ndash;how with <b>Jira</b> workflows in an{' '}
-              <b>agile</b> environment and knowledge of <b>basecamp</b> for
-              collaboration.
+            Process know&ndash;how with <b>Jira</b> workflows in an <b>agile</b> environment and knowledge of <b>basecamp</b> for collaboration.
             </p>
           </li>
         </ul>
