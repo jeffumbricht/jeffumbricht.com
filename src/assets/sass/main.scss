@@ -557,7 +557,7 @@
 		position: relative;
 
 		> .label {
-			display: none;
+			@include sr-only;
 		}
 
 		&:before{
