@@ -34,11 +34,11 @@ const IndexPage = () => (
         <header className="major">
           <h2>
             well&ndash;rounded, <br />
-            refined front end development
+            front&ndash;end development focus
           </h2>
           <p>
-            Over ten years of industry experience in a collaborative environment  <br />
-            with a focus on the front end, Drupal, and mentorship.
+            Over ten years of experience developing public&ndash;facing websites and <br />
+            software focusing on the front-end and Drupal.
           </p>
         </header>
         <ul className="icons major">
@@ -54,7 +54,7 @@ const IndexPage = () => (
           </li>
           <li>
             <span className="icon solid fa-code major style1">
-              <span className="label">Front end development</span>
+              <span className="label">Front&ndash;end development</span>
             </span>
           </li>
         </ul>
@@ -86,7 +86,7 @@ const IndexPage = () => (
             and teamwork
           </h2>
           <p>
-            Agency life has given me experience in cross-functional teams with developers, UX architects, UI designers, and stakeholders.
+            Agency life has given me experience in cross&ndash;functional teams with developers, UX architects, UI designers, and stakeholders.
           </p>
         </div>
       </section>
@@ -111,12 +111,12 @@ const IndexPage = () => (
         <header className="major">
           <h2>Development skills</h2>
           <p>
-          Front end with HTML, Sass, and JavaScript is my bread and butter with knowledge of various PHP solutions, JS frameworks, and more sprinkled in.
+          Front&ndash;end with HTML, Sass, and JavaScript is my bread and butter, with knowledge of various PHP solutions, JS frameworks, and more sprinkled in.
           </p>
         </header>
         <ul className="features">
           <li className="icon brands fa-html5">
-            <h3>Front end</h3>
+            <h3>Front&ndash;end</h3>
             <p>
             Expertise in developing cross&ndash;browser using a <b>mobile&ndash;first</b> approach and utilizing <b>HTML</b>, <b>Sass</b>, <b>jQuery</b>, and vanilla <b>JavaScript</b>.
             </p>
@@ -137,7 +137,6 @@ const IndexPage = () => (
             <h3>a11y</h3>
             <p>
             Well&ndash;versed in <b>accessibility audits</b>, best practices, <b>automated and manual testing</b>, content editor training, and team education.
-
             </p>
           </li>
           <li className="icon brands fa-git-alt">

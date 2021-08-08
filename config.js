@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Jeff Umbricht - Full\u2013Stack Developer', // <title>
+  siteTitle: 'Jeff Umbricht - Senior Software Engineer', // <title>
   manifestName: 'Jeff Umbricht Portfolio',
   manifestShortName: 'Jeff', // max 12 characters
   manifestStartUrl: '/',
@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   heading: 'Jeff Umbricht',
-  subHeading: 'Full\u2013Stack Developer',
+  subHeading: 'Senior Software Engineer',
   email: 'jeffrey.u@gmail.com',
   // social
   socialLinks: [
