@@ -38,7 +38,7 @@ const IndexPage = () => (
           </h2>
           <p>
             Over ten years of experience developing public&ndash;facing websites and <br />
-            software focusing on the front-end and Drupal.
+            software focusing on front-end and web application development.
           </p>
         </header>
         <ul className="icons major">
@@ -130,7 +130,7 @@ const IndexPage = () => (
           <li className="icon brands fa-drupal">
             <h3>Back end</h3>
             <p>
-            Concentrating on <b>Drupal 8/9</b> with working knowledge of <b>Drupal 7</b>, <b>WordPress</b>, and <b>Laravel</b>.
+            <b>Object&ndash;Oriented PHP</b> with a concentration on <b>Drupal</b>, prior experience with <b>WordPress</b> and <b>Laravel</b>.
             </p>
           </li>
           <li className="icon solid fa-universal-access">
