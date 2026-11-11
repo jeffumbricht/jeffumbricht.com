@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/open-sans';
+
+/*
+ * Design tokens. Placeholder until step 2 of docs/refactor-plan.md ports the
+ * palette from src/assets/sass/libs/_vars.scss (or from the chosen mockup).
+ */
+@theme {
+  --font-sans: 'Open Sans Variable', ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+}
